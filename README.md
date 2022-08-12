@@ -1,4 +1,4 @@
-# qr-mage
+# qr-image
 Add İmage Above Qr Code
 
 ![Uygulama Ekran Görüntüsü](https://i.ibb.co/F7Pvk6C/LOGO.png)
